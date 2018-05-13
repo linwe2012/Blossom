@@ -12,9 +12,9 @@
 - make sure everything remain where they are cuz it uses relative path
 - to start your own server
   - download nodejs
-  - in cmd prompt input "node Abosolute\-Path\-Of\-Hello.js" will start your server
+  - in cmd prompt inputing "node Abosolute\-Path\-Of\-Hello.js" will start your server
   - the address will be "localhost:6868", you can change the port as you wish
-    - remember the info you will get from the console may be incorrect cuz it does not dynamically with the settings
+    - remember the info you will get from the console may be incorrect cuz it does not dynamically change with the settings
   - to expose your server to School's innner internet, you need to turn off VPN
     - use the band cuz it has a static ip
     - in cmd input "ipconfig" and you will get your ipv-4 address which allows others to visit
