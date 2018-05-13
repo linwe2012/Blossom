@@ -12,7 +12,7 @@
 - make sure everything remain where they are cuz it uses relative path
 - to start your own server
   - download nodejs
-  - in cmd prompt inputing "node Abosolute\-Path\-Of\-Hello.js" will start your server
+  - in cmd prompt inputing `node Abosolute\-Path\-Of\-Hello.js` will start your server
   - the address will be "localhost:6868", you can change the port as you wish
     - remember the info you will get from the console may be incorrect cuz it does not dynamically change with the settings
   - to expose your server to School's innner internet, you need to turn off VPN
@@ -21,5 +21,5 @@
     - turn off VPN before you start your server
     - if anything goes wrong, try to run following test on **other** computer
       - whether you can ping your ip
-      - whether your server is listening certain port by "telnet ip port"(you may need to enable telnet manually)
+      - whether your server is listening certain port by `telnet ip port`(you may need to enable telnet manually)
     - the other people who visit must using ZJU Wlan or Ether Net
