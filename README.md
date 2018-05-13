@@ -16,7 +16,7 @@
   - the address will be "localhost:6868", you can change the port as you wish
     - remember the info you will get from the console may be incorrect cuz it does not dynamically change with the settings
   - to expose your server to School's innner internet, you need to turn off VPN
-    - use the band cuz it has a static ip
+    - use the Ether net cuz it has a static ip
     - in cmd input "ipconfig" and you will get your ipv-4 address which allows others to visit
     - turn off VPN before you start your server
     - if anything goes wrong, try to run following test on **other** computer
